@@ -1,0 +1,5 @@
+{
+  "name": "TrafficInsight",
+  "description": "A professional web analytics tool to estimate website traffic volume and geographic distribution using AI-powered search grounding.",
+  "requestFramePermissions": []
+}
